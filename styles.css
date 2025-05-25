@@ -206,7 +206,7 @@ body {
 }
 
 .file-icon {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
 }
 
 .folder-item p {
@@ -651,13 +651,18 @@ body {
   font-size: 0.875rem;
   border: 1px solid #e5e7eb;
   border-radius: 0.375rem;
-  padding: 0.5rem 0.75rem;
+  padding: 0.6rem 0.75rem;
   cursor: pointer;
 }
 
 .delete-button {
+  padding: 0.5rem 0.75rem;
   border-color: rgb(239, 68, 68);
   color: rgb(239, 68, 68);
+}
+
+.grid-button{
+   padding: 0.5rem 0.75rem;
 }
 
 .selected-info {
